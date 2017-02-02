@@ -8,6 +8,12 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+// Materialize
+@import "materialize/components/color";
+@import "materialize";
+
+@import "materialize/extras/nouislider";
+
 // Your CSS
 @import "layout/index";
 @import "components/index";
